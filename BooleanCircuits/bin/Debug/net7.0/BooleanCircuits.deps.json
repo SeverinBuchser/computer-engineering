@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "BooleanCircuits/1.0.0": {
+        "dependencies": {
+          "BooleanAlgebra": "1.0.0"
+        },
+        "runtime": {
+          "BooleanCircuits.dll": {}
+        }
+      },
+      "BooleanAlgebra/1.0.0": {
+        "runtime": {
+          "BooleanAlgebra.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BooleanCircuits/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BooleanAlgebra/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BooleanAlgebra", "BooleanAlgebra\BooleanAlgebra.csproj", "{300206A7-679A-4916-A9F1-66CB72BE0A47}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BooleanCircuits", "BooleanCircuits\BooleanCircuits.csproj", "{775887E4-A749-4633-B740-856283939892}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{86F91365-6CC8-4856-ACF6-7ABB0B7C1EFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{300206A7-679A-4916-A9F1-66CB72BE0A47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{300206A7-679A-4916-A9F1-66CB72BE0A47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{300206A7-679A-4916-A9F1-66CB72BE0A47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{300206A7-679A-4916-A9F1-66CB72BE0A47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{775887E4-A749-4633-B740-856283939892}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{775887E4-A749-4633-B740-856283939892}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{775887E4-A749-4633-B740-856283939892}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{775887E4-A749-4633-B740-856283939892}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86F91365-6CC8-4856-ACF6-7ABB0B7C1EFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86F91365-6CC8-4856-ACF6-7ABB0B7C1EFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86F91365-6CC8-4856-ACF6-7ABB0B7C1EFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86F91365-6CC8-4856-ACF6-7ABB0B7C1EFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

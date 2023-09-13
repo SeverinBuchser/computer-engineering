@@ -1,0 +1,52 @@
+{
+    "Name": "NOR",
+    "Inputs": [
+        {
+            "Name": "Input 1"
+        },
+        {
+            "Name": "Input 2"
+        }
+    ],
+    "Outputs": [
+        {
+            "Name": "Output"
+        }
+    ],
+    "Circuits": [
+        {
+            "Name": "OR",
+            "Id": "OR1"
+        },
+        {
+            "Name": "NOT",
+            "Id": "NOT1"
+        }
+    ],
+    "Connections": [
+        {
+            "EmitterCircuit": "THIS",
+            "Emitter": "Input 1",
+            "ReceiverCircuit": "OR1",
+            "Receiver": "Input 1"
+        },
+        {
+            "EmitterCircuit": "THIS",
+            "Emitter": "Input 2",
+            "ReceiverCircuit": "OR1",
+            "Receiver": "Input 2"
+        },
+        {
+            "EmitterCircuit": "OR1",
+            "Emitter": "Output",
+            "ReceiverCircuit": "NOT1",
+            "Receiver": "Input"
+        },
+        {
+            "EmitterCircuit": "NOT1",
+            "Emitter": "Output",
+            "ReceiverCircuit": "THIS",
+            "Receiver": "Output"
+        }
+    ]
+}

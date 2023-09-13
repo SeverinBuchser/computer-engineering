@@ -1,0 +1,13 @@
+/home/severin/gitrepo/Severin/Logic/BooleanCircuits/obj/Debug/netstandard2.0/BooleanCircuits.csproj.AssemblyReference.cache
+/home/severin/gitrepo/Severin/Logic/BooleanCircuits/obj/Debug/netstandard2.0/BooleanCircuits.GeneratedMSBuildEditorConfig.editorconfig
+/home/severin/gitrepo/Severin/Logic/BooleanCircuits/obj/Debug/netstandard2.0/BooleanCircuits.AssemblyInfoInputs.cache
+/home/severin/gitrepo/Severin/Logic/BooleanCircuits/obj/Debug/netstandard2.0/BooleanCircuits.AssemblyInfo.cs
+/home/severin/gitrepo/Severin/Logic/BooleanCircuits/obj/Debug/netstandard2.0/BooleanCircuits.csproj.CoreCompileInputs.cache
+/home/severin/gitrepo/Severin/Logic/BooleanCircuits/bin/Debug/netstandard2.0/BooleanCircuits.deps.json
+/home/severin/gitrepo/Severin/Logic/BooleanCircuits/bin/Debug/netstandard2.0/BooleanCircuits.dll
+/home/severin/gitrepo/Severin/Logic/BooleanCircuits/bin/Debug/netstandard2.0/BooleanCircuits.pdb
+/home/severin/gitrepo/Severin/Logic/BooleanCircuits/bin/Debug/netstandard2.0/BooleanAlgebra.dll
+/home/severin/gitrepo/Severin/Logic/BooleanCircuits/bin/Debug/netstandard2.0/BooleanAlgebra.pdb
+/home/severin/gitrepo/Severin/Logic/BooleanCircuits/obj/Debug/netstandard2.0/BooleanCircuits.csproj.CopyComplete
+/home/severin/gitrepo/Severin/Logic/BooleanCircuits/obj/Debug/netstandard2.0/BooleanCircuits.dll
+/home/severin/gitrepo/Severin/Logic/BooleanCircuits/obj/Debug/netstandard2.0/BooleanCircuits.pdb

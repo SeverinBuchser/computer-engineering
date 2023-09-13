@@ -1,0 +1,10 @@
+/home/severin/gitrepo/Severin/Logic/BooleanAlgebra/obj/Debug/netstandard2.0/BooleanAlgebra.csproj.AssemblyReference.cache
+/home/severin/gitrepo/Severin/Logic/BooleanAlgebra/obj/Debug/netstandard2.0/BooleanAlgebra.GeneratedMSBuildEditorConfig.editorconfig
+/home/severin/gitrepo/Severin/Logic/BooleanAlgebra/obj/Debug/netstandard2.0/BooleanAlgebra.AssemblyInfoInputs.cache
+/home/severin/gitrepo/Severin/Logic/BooleanAlgebra/obj/Debug/netstandard2.0/BooleanAlgebra.AssemblyInfo.cs
+/home/severin/gitrepo/Severin/Logic/BooleanAlgebra/obj/Debug/netstandard2.0/BooleanAlgebra.csproj.CoreCompileInputs.cache
+/home/severin/gitrepo/Severin/Logic/BooleanAlgebra/bin/Debug/netstandard2.0/BooleanAlgebra.deps.json
+/home/severin/gitrepo/Severin/Logic/BooleanAlgebra/bin/Debug/netstandard2.0/BooleanAlgebra.dll
+/home/severin/gitrepo/Severin/Logic/BooleanAlgebra/bin/Debug/netstandard2.0/BooleanAlgebra.pdb
+/home/severin/gitrepo/Severin/Logic/BooleanAlgebra/obj/Debug/netstandard2.0/BooleanAlgebra.dll
+/home/severin/gitrepo/Severin/Logic/BooleanAlgebra/obj/Debug/netstandard2.0/BooleanAlgebra.pdb
